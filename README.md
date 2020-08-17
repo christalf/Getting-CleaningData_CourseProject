@@ -31,8 +31,7 @@ The files submitted on this repo are the following:
 2. `tidyFinalData.txt` file. It's the final tidy dataset produced and exported by
    the analysis script peviously mentioned.  
 3. `CodeBook.md` file. It describes the variables, the data, and all the work and
-   transformations or work that you performed to clean up the data.  
-4. Finally, the compressed downloaded raw dataset and the folder `UCI HAR Dataset`
-   with all the uncompressed raw files.  
+   transformations performed to clean up the data.  
+4. Finally, the uncompressed downloaded raw dataset under the folder `UCI HAR Dataset`.  
 
 ***
